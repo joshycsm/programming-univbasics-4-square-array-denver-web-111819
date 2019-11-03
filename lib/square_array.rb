@@ -3,4 +3,6 @@ def square_array(array)
   # while x <= 3
   # puts x**
   # x++
+  # true method below
+  
 end
