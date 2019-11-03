@@ -4,5 +4,6 @@ def square_array(array)
   # puts x**
   # x++
   # true method below
+  squared = []
   
 end
